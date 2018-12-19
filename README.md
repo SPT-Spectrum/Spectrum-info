@@ -8,3 +8,11 @@ low prices and the availability of a large selection of products are among the m
 these platforms deliver to consumers. But such benefits provided by centralized corporations
 come at a cost — increased prices, process inefficiencies and aggressive marketing using huge
 amounts of personal data.
+
+Spectrum is a smart
+contract protocol, aims to improve the e-commerce system with fundamental e-commerce
+technology for buyers and sellers by automating functions currently performed by “middlemen”
+marketplaces like Amazon, eBay and Alibaba. The system is a less expensive and more secure
+online commerce experience for all participants that reach through a global blockchain-based
+inventory system. Spectrum users will save time and money through its automated e-commerce
+functions.
