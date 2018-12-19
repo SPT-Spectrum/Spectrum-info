@@ -1,4 +1,8 @@
 # Spectrum-info
+
+[![Spectrum Logo](https://i.ibb.co/m09qr3b/Spectrum-01.jpg)](https://spectrum-token.com)
+
+
 What is Spectrum?
 SPECTRUM (SPT) is a decentralized online shopping aims to improve the e-commerce system
 for buyers and sellers. As a rapidly growing business sector, e-commerce continues to open up
